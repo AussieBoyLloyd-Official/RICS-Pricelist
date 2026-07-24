@@ -26,9 +26,7 @@
       "Waster": 2187.5,
       "Yttakin": 1750.0,
       "Highmate": 1750.0,
-      "Starjack": 1750.0,
-      "Gremlin": 1750.0,
-      "HBX_Highborn": 1750.0
+      "Starjack": 1750.0
     },
     "EnabledXenotypes": {
       "Baseliner": true,
@@ -42,9 +40,7 @@
       "Waster": true,
       "Yttakin": true,
       "Highmate": true,
-      "Starjack": true,
-      "Gremlin": true,
-      "HBX_Highborn": false
+      "Starjack": true
     }
   }
 }
