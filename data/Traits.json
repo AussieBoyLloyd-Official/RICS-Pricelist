@@ -1368,8 +1368,8 @@
       "+0.5 Entity study rate"
     ],
     "Conflicts": [],
-    "CanAdd": false,
-    "CanRemove": false,
+    "CanAdd": true,
+    "CanRemove": true,
     "AddPrice": 375,
     "RemovePrice": 625,
     "BypassLimit": false,
