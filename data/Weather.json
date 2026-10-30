@@ -171,7 +171,7 @@
     "DefName": "Blizzard",
     "Label": "blizzard",
     "Description": "Snow reduces the accuracy of ranged weapons, extinguishes fire, and slows people down.",
-    "BaseCost": 1000,
+    "BaseCost": 2000,
     "KarmaType": "Bad",
     "EventCap": 3,
     "Enabled": true,
